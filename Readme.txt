@@ -1,3 +1,8 @@
+Description
+A simple code for string balance checker written in python.
+A String balance checker is a type of program where it checks if braces, 
+brackets, parentheses, etc are equal and properly close.
+
 Files needed
 Is_String_Balance.py (this is the main app)
 FunctionList.py (contains functions that the main app uses)
